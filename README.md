@@ -5,7 +5,7 @@ L'interet de diviser le travail en taches avec une notion de priorité permet d'
 __Github__ : Outil de collaboration permettant de partager le code entre les membres de l'équipe  
 __Repository__ : stockage centralisé et organisé de données  
 __Kanban__ : Méthode permettant une meilleure gestion des taches entre les membres d'une équipe  
-1 * Identifier les taches à réaliser pour satistaire aux attentes (voir l'affiche avec post-it)
+1 * Identifier les taches à réaliser pour satistaire aux attentes (voir l'affiche avec post-it)  
 2 * Rédiger les notes dans son propre Github project      
 3 * Trier les notes par priorités définies en groupe, en les rangeant de haut en bas dans la colonne "to do"
 4 * Faire changer le statut des taches de __"to do"__ à __"Done"__ en passant par __"in progress"__ 
