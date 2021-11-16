@@ -16,3 +16,5 @@ __Kanban__ : Méthode permettant une meilleure gestion des taches entre les memb
 -  Rédiger les notes dans son propre Github project      
 -  Trier les notes par priorités définies en groupe, en les rangeant de haut en bas dans la colonne to do
 -  Faire changer le statut des taches de __"to do"__ à __"Done"__ en passant par __"in progress"__ 
+![croquis de la maquette](https://user-images.githubusercontent.com/94375151/142000275-d7e6e561-93a0-455e-91dc-5ba04b8fcf64.jpg)
+![1](https://user-images.githubusercontent.com/94375151/142000295-dd77881d-b408-4152-88f4-3c43d203dd0e.png)
