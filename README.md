@@ -8,4 +8,4 @@ L'interet de diviser le travail en taches avec une notion de priorité permet d'
 1*Identifier les taches à réaliser pour satistaire aux attentes  
 2*Rédiger les notes dans son propre Github project  
 3*Trier les notes par priorités définies en groupe, en les rangeant de haut en bas dans la colonne "to do"  
-4*Faire changer le statut des taches de "to do" à "Done" en passant par "in progress"   
+4*Faire changer le statut des taches de _"to do"_ à _"Done"_ en passant par _"in progress"_  
