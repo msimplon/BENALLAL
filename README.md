@@ -21,4 +21,4 @@ __Kanban__ : Méthode permettant une meilleure gestion des taches entre les memb
 ![1 maquette](https://user-images.githubusercontent.com/94375151/142001374-89d33620-47da-4265-83b5-82cdd92b18ba.png)
 
 Doctype : Représente la racine d'un doc HTML 
-Les en têtes dans un document HTML : l'élèment "head" permet de fournir des informations générales sur le document 
+En tête dans un document HTML : l'élèment "head" permet de fournir des informations générales sur le document tels que titre, les auteurs, description du contenu de la page, mots clefs. Elle est située après le doctype et comprise entre les balises <head>...<head>
