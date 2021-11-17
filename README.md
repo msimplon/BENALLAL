@@ -19,3 +19,5 @@ __Kanban__ : Méthode permettant une meilleure gestion des taches entre les memb
 ![croquis de la maquette](https://user-images.githubusercontent.com/94375151/142000275-d7e6e561-93a0-455e-91dc-5ba04b8fcf64.jpg)
 
 ![1 maquette](https://user-images.githubusercontent.com/94375151/142001374-89d33620-47da-4265-83b5-82cdd92b18ba.png)
+
+Doctype : Représente la racine d'un doc HTML 
