@@ -28,4 +28,16 @@ En tête dans un document HTML : l'élèment "head" permet de fournir des inform
   
   Il est recommandé d'avoir les sytles dans un fichier à part afin de séparer au mieu le contenu autant que possible
   
-  Le modèle de boite en CSS définit les notions de marge, de remplissage ainsi que les différentes zones qui forment une boite. 
+  Le modèle de boite en CSS définit les notions de marge, de remplissage ainsi que les différentes zones qui forment une boite. En CSS, il existe deux type de boîtes : les boîtes en bloc ("block boxes" en anglais) et les boîtes en ligne. Ce  sont des blocs de base pour la construction des pages web. Autrement dit, dans une page HTML, chaque élément ou balise est représenté par une boite rectangulaire. Le modèle de boîte peut être ajusté et modifié grâce à des propriétés particulières telles que: margin:, border: et padding. 
+  
+  Un sélecteur CSS :Les sélecteurs définissent les éléments sur lesquelles s'applique un ensemble de règles CSS. Il existe de nombreux types de sélecteurs CSS et autant de moyens de cibler des contenus HTML en CSS
+  
+
+  
+
+  Liens utiles :
+  https://www.buvetteetudiants.com/cours/administrator/html-css/selectors-css.php#:~:text=Qu%27est%20ce%20qu%27un%20s%C3%A9lecteur%20%28selector%29%20CSS%20%3F%20Un,vers%20un%20endroit%20pr%C3%A9cis%20de%20la%20page%20Web.
+  
+  https://developer.mozilla.org/fr/docs/Web/CSS/flex-direction
+  
+  
