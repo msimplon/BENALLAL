@@ -30,9 +30,13 @@ En tête dans un document HTML : l'élèment "head" permet de fournir des inform
   
   Le modèle de boite en CSS définit les notions de marge, de remplissage ainsi que les différentes zones qui forment une boite. En CSS, il existe deux type de boîtes : les boîtes en bloc ("block boxes" en anglais) et les boîtes en ligne. Ce  sont des blocs de base pour la construction des pages web. Autrement dit, dans une page HTML, chaque élément ou balise est représenté par une boite rectangulaire. Le modèle de boîte peut être ajusté et modifié grâce à des propriétés particulières telles que: margin:, border: et padding. 
   
+  ![boites CSS](https://user-images.githubusercontent.com/94375151/142636043-573c3c83-3c64-499e-ba47-3e4f3c95173a.PNG)
+
+  
   Un sélecteur CSS :Les sélecteurs définissent les éléments sur lesquelles s'applique un ensemble de règles CSS. Il existe de nombreux types de sélecteurs CSS et autant de moyens de cibler des contenus HTML en CSS comme l'élement p par exemple.
   
   Une propriété CSS : elle permet de définir un élément HTML. Par exemple, la largeur (width), la hauteur (height), la couleur (color)
+  
 
   
 
