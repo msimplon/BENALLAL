@@ -1,4 +1,4 @@
-# YAGNI. (You, Pascal, Manal et benjamin)
+# YAGNI. (You, Pascal, Manal)
 
 
 Les développeurs ne devraient pas ajouter de fonctionnalité à un logiciel tant que celle-ci n'est pas nécessaire  
@@ -46,3 +46,5 @@ En tête dans un document HTML : l'élèment "head" permet de fournir des inform
   https://developer.mozilla.org/fr/docs/Web/CSS/flex-direction
   
 https://myhappyagency.com/blog/cest-quoi-le-css/  
+  
+  https://css-tricks.com/snippets/css/a-guide-to-flexbox/
